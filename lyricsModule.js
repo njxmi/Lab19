@@ -1,0 +1,8 @@
+var quotes = ["There's a million things I haven't done / But just you wait!", "I'm just like my country / I'm young, scrappy and hungry / And I'm not throwing away my shot!", "Raise a glass to freedom / Something they can never take away", "There's nothing rich folks love more / Than going downtown and slummin' it with the poor", "Look around, look around at how lucky we are to be alive right now!", "I've been reading Common Sense by Thomas Paine / So men say that I'm intense or I'm insane", "My dog speaks more eloquently than thee!", "Oceans rise, empires fall / We have seen each other through it all / And when push comes to shove / I will send a fully armed battalion to remind you of my love!", "Immigrants: We get the job done!", "Through the night, we have one shot to live another day / We cannot let a stray gunshot give us away", "A tailor spyin' on the British government! / I take their measurements, information and then I smuggle it", "Talk less.Smile more.", "I approached Madison and said I know you hate 'im, but let's hear what he has to say", "What did they say to you to get you to sell New York City down the river?", "I know my sister like I know my own mind / You will never find anyone as trusting or as kind", "Well, he's never gon' be President now", "Who lives / Who dies / Who tells your story?", "They won't teach you this in your classes / But look it up, Hamilton was wearing his glasses"
+];
+
+module.exports.quotes=quotes;
+
+// function songQuote() {
+// var randomLyric = Math.floor(Math.random() * (quotes.length));
+// }
